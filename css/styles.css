@@ -1,0 +1,46 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+ 
+
+body {
+  height: 100%;
+  font-family: "Tinos", sans-serif;
+  color:  #886353;
+
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("images/peluche logo black.png");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+
+.button {
+  background-color: #ddc3d3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
