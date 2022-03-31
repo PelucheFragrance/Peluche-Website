@@ -1,12 +1,16 @@
 
-<style>
+
   @import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+  @font-face {
+  font-family: Lovelo;
+  src: url(Peluche-Website/Peluche-Website/fonts/lovelo-cufonfonts/Lovelo-Black.otf);
+}
  
 
-body {
+body, h1 {
   height: 100%;
   font-family: "Tinos", sans-serif;
-  color:  #886353;
+  color:  #d79c95;
 
 }
 
@@ -33,14 +37,9 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 
+}
 
 
 
 
 
-
-
-
-</style>
-</head>
-<body>
