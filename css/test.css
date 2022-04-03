@@ -16,8 +16,13 @@ section#Vision img {
   float: center;
 }
 
-h1 {text-align: center}
-p {text-align: center;}
+.content {float: left;
+  			margin: 0 9.5%;
+ 			 width: 50%;}
+
+.content1 {float: right;
+  			margin: 0%, 1.5%;
+  			width: 30%;}
 
 .thx{
   position: fixed;
@@ -92,12 +97,8 @@ nav a:hover:before{
 }
 
 
-footer {
-	position: absolute;
-	width: 100%;
-	left: 0;
-	bottom: 150;
-	background-color: black;
-	color: white;
-	text-align: center;
+.paradisbanner {
+  max-width: 107%;
+	padding: -2%; margin-left: -3%; margin-top: 5%;
+  height: auto
 }
