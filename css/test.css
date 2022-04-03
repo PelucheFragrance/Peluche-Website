@@ -1,5 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
+
+ @import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('http://fonts.cdnfonts.com/css/lovelo?styles=25962');
+
+
+
 .header-img {
   height: 365px;
   background: url("../images/homepage.png");
@@ -15,6 +21,19 @@ section {
 section#Vision img {
   float: center;
 }
+
+body, p {
+  height: 100%;
+  font-family: "Tinos", sans-serif;
+  color:  #d79c95;
+ } 
+
+
+ h1, p {
+  height: 100%;
+  font-family: "Lovelo", sans-serif;
+  color:  #d79c95;
+ } 
 
 .content {float: left;
   			margin: 0 9.5%;

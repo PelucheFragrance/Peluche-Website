@@ -1,19 +1,28 @@
 
 
   @import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-  @font-face {
-  font-family: Lovelo;
-  src: url(Peluche-Website/Peluche-Website/fonts/lovelo-cufonfonts/Lovelo-Black.otf);
-}
+  @import url('http://fonts.cdnfonts.com/css/lovelo?styles=25962');
+
+
  
-
-body, p, h1 {
-  height: 100%;
-  font-family: "Tinos", sans-serif;
-  color:  #d79c95;
-
-
+div {
+  font-family: Lovelo;
 }
+body, p {
+  height: 100%;
+  font-family: "Lovelo", sans-serif;
+  color:  #d79c95;
+}
+  
+ h1 {
+  height: 100%;
+  font-family: "Lovelo", sans-serif;
+  color:  #d79c95;
+ } 
+
+
+
+
 
 .bgimg {
   background-position: center;
@@ -40,7 +49,23 @@ body, p, h1 {
 
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+}
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
 
 
 
