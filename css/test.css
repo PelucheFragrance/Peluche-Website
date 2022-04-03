@@ -25,22 +25,26 @@ section#Vision img {
 body, p {
   height: 100%;
   font-family: "Tinos", sans-serif;
-  color:  #d79c95;
+  color:  #886353;
+  font-size: 20px;
+  text-align: center;
  } 
 
 
- h1, p {
+ h1 {
   height: 100%;
   font-family: "Lovelo", sans-serif;
   color:  #d79c95;
+  text-align: center;
  } 
 
 .content {float: left;
-  			margin: 0 9.5%;
- 			 width: 50%;}
+  			margin: 50%, 50%;
+ 			 width: 50%;
+       }
 
 .content1 {float: right;
-  			margin: 0%, 1.5%;
+  			margin: 50%, 50%;
   			width: 30%;}
 
 .thx{
@@ -56,7 +60,7 @@ nav{
   text-align:center;
 }
 nav a{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lovelo', sans-serif;
   font-weight:500;
   text-transform:uppercase;
   text-decoration:none;

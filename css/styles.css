@@ -10,15 +10,19 @@ div {
 }
 body, p {
   height: 100%;
-  font-family: "Lovelo", sans-serif;
-  color:  #d79c95;
+  font-family: "Tinos", sans-serif;
+  color:  #886353;
+  font-size: 20px;
+  text-align: center;
 }
   
- h1 {
+ h1, h3 {
   height: 100%;
   font-family: "Lovelo", sans-serif;
   color:  #d79c95;
+  text-align: center
  } 
+
 
 
 
