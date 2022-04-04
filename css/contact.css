@@ -1,5 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
+
+ @import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+  @import url('http://fonts.cdnfonts.com/css/lovelo?styles=25962');
+
+
+
+
 .header-img {
   height: 365px;
   background: url("../images/contact.png");
@@ -22,7 +29,7 @@ nav{
   text-align:center;
 }
 nav a{
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lovelo', sans-serif;
   font-weight:500;
   text-transform:uppercase;
   text-decoration:none;
@@ -120,7 +127,7 @@ html{    background:url("http://www.philippefercha.com/img/home-page.jpg") no-re
 
 .feedback-input {
 	color:#000;
-	font-family: Montserrat, Arial, sans-serif;
+	font-family: Tinos, sans-serif;
   font-weight:300;
 	font-size: 14px;
 	border-radius: 0;
@@ -163,7 +170,7 @@ input:focus, textarea:focus {
 }
 
 #button-blue{
-	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	font-family: "Lovelo", sans-serif;
 	float:left;
 	width: 100%;
 	border: 0px solid transparent;
@@ -221,6 +228,6 @@ input:focus, textarea:focus {
   padding: 12px;
   font-size: 30px;
   font-weight: 300;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Lovelo",sans-serif;
 	text-align: center
 }
