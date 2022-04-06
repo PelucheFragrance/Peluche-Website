@@ -15,7 +15,7 @@
 .header-img {
   height: 365px;
   background: url("../images/homepage.png");
-  background-size: 1740px;
+  background-size: cover;
 	padding: -2%; margin: -2%; margin-bottom: 3%;
 	background-position: center; }
 
@@ -128,7 +128,8 @@ nav a:hover:before{
 }
 
 .paradisbanner {
-  max-width: 107%;
+	background-image: url("../images/paradisbanner.png");
+  height: 300px;
+	 background-size: cover;
 	padding: -2%; margin-left: -3%; margin-top: 5%;
-  height: auto
-}
+	background-position: center; }
