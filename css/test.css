@@ -123,6 +123,9 @@ nav a:hover:before{
   }
 }
 
+.bag-icon
+{width: 30px;
+}
 
 .paradisbanner {
   max-width: 107%;
