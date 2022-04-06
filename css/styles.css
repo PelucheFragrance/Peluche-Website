@@ -19,12 +19,13 @@
 	padding: -2%; margin: -2%; margin-bottom: 3%;
 	background-position: center; }
 
-.header-img-content {
+  .header-img-content {
   height: 365px;
-  background: url("images/contentbanner.png");
-  background-size: 1740px;
+  background: url("../images/contentbanner.png");
+  background-size: cover;
   padding: -2%; margin: -2%; margin-bottom: 3%;
   background-position: center; }
+
 
 
 
