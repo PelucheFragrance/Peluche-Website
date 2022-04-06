@@ -29,7 +29,6 @@ section#Vision img {
 }
 
 body, p {
-  height: 100%;
   font-family: "Tinos", sans-serif;
   color:  #886353;
   font-size: 25px;
@@ -38,7 +37,6 @@ body, p {
 
 
  h1 {
-  height: 100%;
   font-family: "Lovelo", sans-serif;
   color:  #d79c95;
   text-align: center;
