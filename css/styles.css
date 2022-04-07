@@ -81,8 +81,12 @@ nav a:before{
 }
 nav a:hover:before{
   animation:in 0.2s cubic-bezier(1, 0, 0.58, 0.97) 1 both;
-
+	color: white;
 }
+	 
+nav a:hover {color: white}
+
+
 @keyframes in{
   0%{
     width: 0;
@@ -121,6 +125,7 @@ nav a:hover:before{
 .bag-icon
 {width: 30px;
 }
+
 
 .paradisbanner {
 	background-image: url("../images/paradisbanner.png");
