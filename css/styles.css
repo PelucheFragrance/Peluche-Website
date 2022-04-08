@@ -37,7 +37,7 @@ body, p {
  } 
 
 
- h1, h3 {
+ h1, h3, h4 {
   font-family: "Lovelo", sans-serif;
   color:  #d79c95;
   text-align: center;
@@ -150,6 +150,7 @@ nav a:hover:before{
   width: 33.33%;
 }
 
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -162,6 +163,13 @@ nav a:hover:before{
     width: 100%;
   }
 }
+
+.column2 {
+  float: left;
+  width: 25%;
+}
+
+
 
 
 /*SHOPPING BAG*/
