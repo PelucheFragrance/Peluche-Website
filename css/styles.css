@@ -55,6 +55,12 @@ h4 {
   text-align: center;
  padding-bottom: 10px} 
 
+ h5 {
+  font-family: "Lovelo", sans-serif;
+  color:  #d79c95;
+  text-align: center;
+ padding-bottom: 10px} 
+
 /*NAVIGATION BAR*/
 
 .thx{
@@ -161,6 +167,10 @@ nav a:hover:before{
   width: 33.33%;
 }
 
+.column2 {
+  float: left;
+  width: 25%;
+}
 
 /* Clear floats after the columns */
 .row:after {
@@ -175,10 +185,7 @@ nav a:hover:before{
   }
 }
 
-.column2 {
-  float: left;
-  width: 25%;
-}
+
 
 
 
