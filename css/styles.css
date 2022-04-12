@@ -729,3 +729,13 @@ input:focus, textarea:focus {
   text-align: center
 	  
 }
+
+
+#radio {
+  accent-color: green;
+}
+
+.input[name="size"] {
+  accent-color: green;
+}
+
