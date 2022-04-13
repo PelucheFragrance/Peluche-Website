@@ -592,7 +592,7 @@ aside {
 
 
 
-/*START CONTACT FORM*/
+/*START CONTACT fbu*/
 
 
 #feedback-page{
@@ -737,5 +737,10 @@ input:focus, textarea:focus {
 
 .input[name="size"] {
   accent-color: green;
+}
+
+.btn-primary {
+  color: #ddc3d3;
+  font:  "Tinos";
 }
 
