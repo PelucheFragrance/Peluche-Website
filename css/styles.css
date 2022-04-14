@@ -20,6 +20,15 @@
 	background-position: center;
 max-height: 65vw}
 
+@media screen and (max-width: 600px) {
+  div.header-img {
+    background:url("../images/peluchephone.png");
+		background-size: cover;
+	padding: -2%; margin: -2%; margin-bottom: 3%;
+	background-position: center;
+max-height: 65vw}
+  }
+
   .header-img-contact {
   height: 365px;
   background: url("../images/contactbanner.png");
