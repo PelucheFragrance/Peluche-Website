@@ -47,6 +47,13 @@ height: 365px;
 	padding: -2%; margin: -2%; margin-bottom: 3%;
 	background-position: center; }
 
+.shoppingbagheader {
+height: 365px;
+  background: url("../images/shoppingbagheader.png");
+  background-size: cover;
+	padding: -2%; margin: -2%; margin-bottom: 3%;
+	background-position: center; }
+
 
 
 .checkitout {
