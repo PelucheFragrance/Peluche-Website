@@ -645,8 +645,8 @@ aside {
   padding-top:1px;
   padding-bottom:35px;
   width: 450px;
-  left: 50%;
- /* margin-top:30px;
+  /*left: 50%;
+  margin-top:30px;
   margin-left: -260px;*/
 }
 
@@ -658,7 +658,7 @@ aside {
   border-radius: 0;
   line-height: 22px;
   background-color: #fff;
-  padding: 1px 13px 13px 13px;
+  padding: 13px 13px 13px 13px;
   margin-bottom: 10px;
   width:100%;
   -webkit-box-sizing: border-box;
@@ -742,9 +742,9 @@ input:focus, textarea:focus {
 
 @media only screen and (max-width: 580px) {
   #form-div{
-    left: 3%;
-    margin-right: 3%;
-    width: 88%;
+    left: 0;
+    margin-right: 0;
+    width: 100%;
     margin-left: 0;
     padding-left: 3%;
     padding-right: 3%;
@@ -761,18 +761,6 @@ input:focus, textarea:focus {
 }
 
 
-#radio {
-  accent-color: green;
-}
-
-.input[name="size"] {
-  accent-color: green;
-}
-
-.btn-primary {
-  color: #ddc3d3;
-  font:  "Tinos";
-}
 
 .redirect-button {
     color: white; 
