@@ -26,6 +26,29 @@
   padding: -2%; margin: -2%; margin-bottom: 3%;
   background-position: center; }
 
+.ourproductheader {
+height: 365px;
+  background: url("../images/ourproductheader.png");
+  background-size: cover;
+	padding: -2%; margin: -2%; margin-bottom: 3%;
+	background-position: center; }
+
+.whoareweheader {
+height: 365px;
+  background: url("../images/whoareweheader.png");
+  background-size: cover;
+	padding: -2%; margin: -2%; margin-bottom: 3%;
+	background-position: center; }
+
+.justificationheader {
+height: 365px;
+  background: url("../images/justificationheader.png");
+  background-size: cover;
+	padding: -2%; margin: -2%; margin-bottom: 3%;
+	background-position: center; }
+
+
+
 .checkitout {
 	text-align: left;
 	padding-left: 210px;
