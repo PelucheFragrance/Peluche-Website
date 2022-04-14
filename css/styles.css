@@ -63,8 +63,7 @@ max-height: 65vw}
 
 
 .checkitout {
-	text-align: left;
-	padding-left: 210px;
+	text-align: center;
 	width: 600px;
 }
 
@@ -76,6 +75,17 @@ body, p {
   text-align: center;
  } 
 
+@media screen and (min-width: 601px) {
+  div.body, p {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.body, p {
+    font-size: 18px;
+  }
+}
 
  h1, h3 {
   font-family: "Lovelo", sans-serif;
@@ -198,10 +208,10 @@ nav a:hover {color: white}
 
 .paradisbanner {
 	background-image: url("../images/paradisbanner.png");
-  height: 300px;
+  height: 345px;
 	 background-size: contain;
 	background-repeat: no-repeat;
-	 margin-left: -3%; margin-top: 5%;
+	 margin-left: -7%; 
 	margin-bottom: 9%;
 	background-position: center; 
 max-height: 80vw}
